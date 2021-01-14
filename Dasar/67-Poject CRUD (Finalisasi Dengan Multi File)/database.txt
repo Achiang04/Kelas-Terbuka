@@ -1,0 +1,7 @@
+jancuk_2020_1,2020,jancuk,bangke,bangsat
+faqihza_2019_1,2019,faqihza,gramedia,belajar C++
+faqihza_2019_2,2019,faqihza,gramedia,belajar phyton
+faqihza_2019_3,2019,faqihza,gramedia,belajar Java
+Ucup_2020_1,2020,Ucup Surucup,Kompas,Cara nangkap belut di sawah
+asep_2020_1,2020,asep,bambang,Matilah Kau Sana
+joseph_2030_3,2030,joseph,amazon,cara buat anak
